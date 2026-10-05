@@ -14,10 +14,10 @@ class Chai{
     }
 }
 
-const masalaChai = new Chai("Adrak", 20)
+const masalaChai = new Chai("Adrak")
 masalaChai.flavour="masala"
 
-class Chai {
+class Chai1 {
     public flavour : string="Masala"
 
     private secretIngredients="Cardamon"
